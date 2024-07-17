@@ -7,6 +7,7 @@ public class moveallZerosToEnd {
             System.out.print(i+"\t");
         }
     }
+    // static function
     public static int[] movezeroesEnd(int a[]){
 
         int nz=0;
